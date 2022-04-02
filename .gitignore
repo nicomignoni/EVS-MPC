@@ -1,4 +1,4 @@
-data/*.csv
+data/ev/*.csv
 
 utils/*
 !utils/plot_projections.m
@@ -6,3 +6,7 @@ utils/*
 plot/fig/*
 plot/pdf/*
 !plot/pdf/mpc_plot.pdf
+
+mpc/*
+!mpc/ADALM.m
+!mpc/MPC.m
