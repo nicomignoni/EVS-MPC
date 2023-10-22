@@ -3,13 +3,11 @@ Simulation code for the paper "_Distributed Noncooperative MPC for Energy Schedu
 ## Cite as
 
 ```
-@ARTICLE{10184502,
+@article{mignoni2023distributed,
+  title={Distributed Noncooperative MPC for Energy Scheduling of Charging and Trading Electric Vehicles in Energy Communities},
   author={Mignoni, Nicola and Carli, Raffaele and Dotoli, Mariagrazia},
-  journal={IEEE Transactions on Control Systems Technology}, 
-  title={Distributed Noncooperative MPC for Energy Scheduling of Charging and Trading Electric Vehicles in Energy Communities}, 
+  journal={IEEE Transactions on Control Systems Technology},
   year={2023},
-  volume={31},
-  number={5},
-  pages={2159-2172},
-  doi={10.1109/TCST.2023.3291549}
+  publisher={IEEE}
+}
 ```
